@@ -13,6 +13,7 @@
 💡 Skilled in both **Backend and Frontend Development**, with a strong focus on **API architecture** and **database design**
 
 📸 Also a **Professional Photographer** — creativity drives my work  
+
 🎯 Soon heading to **University** to keep pushing my knowledge further  
 🌍 Based in **Montreal, Quebec, Canada**
 ⚡ Believer in **clean code, continuous learning, and innovation**
