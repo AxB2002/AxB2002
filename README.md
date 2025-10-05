@@ -2,8 +2,9 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Adam+Brillon!;Software+%26+Web+Developer;Analyste+Programmeur+Gradué;Backend+Enthusiast+⚙️;Always+learning+new+things+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Adam!;Software+Development+Analyst+Graduate;Full-Stack+Developer+%26+Photographer;Building+Reliable+&+Scalable+Systems;Based+in+Montreal,+Canada;Always+Learning+&+Innovating+💡" alt="Typing SVG" />
 </div>
+
 
 ---
 
