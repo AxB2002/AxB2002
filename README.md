@@ -2,14 +2,14 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Adam!;Software+Development+Analyst+Graduate;Full-Stack+Developer+%26+Photographer;Building+Reliable+&+Scalable+Systems;Based+in+Montreal,+Canada;Always+Learning+&+Innovating+💡" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Adam!;Software+Development+Analyst+Graduate;Full-Stack+Developer+%26+Photographer;" alt="Typing SVG"/>
 </div>
 
 
 ---
 
 ### 👨‍💻 About Me  
-🎓 **Software Development Analyst graduate**, passionate about building reliable and scalable systems  
+🎓 **Software Development Analyst graduate**, passionate about building reliable and scalable systems,  
 💡 Skilled in both **Backend and Frontend Development**, with a strong focus on **API architecture** and **database design**
 📸 Also a **Professional Photographer** — creativity drives my work  
 🎯 Soon heading to **University** to keep pushing my knowledge further  
