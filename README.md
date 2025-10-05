@@ -43,8 +43,8 @@
 ---
 
 ## 🌍 Languages
-- 🇫🇷 French  
-- 🇬🇧 English  
+- French  
+- English  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=brillonadam&label=Profile+Views&color=00C4FF&style=flat-square" alt="Profile views counter"/>
