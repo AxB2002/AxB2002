@@ -2,16 +2,18 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Adam+Brillon!;Web+%26+Software+Developer;Professional+Photographer;Always+learning+new+things+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Adam+Brillon!;Software+%26+Web+Developer;Analyste+Programmeur+Gradué;Backend+Enthusiast+⚙️;Always+learning+new+things+💡" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me  
-🚀 Currently studying to become a **Software/Web Developer**  
-📸 Professional **Photographer** on the side  
+🎓 **Recently graduated** as an *Analyste Programmeur*  
+💡 Passionate about **Backend Development**, APIs & scalable systems  
+📸 Also a **Professional Photographer** — creativity drives my work  
+🎯 Soon heading to **University** to keep pushing my knowledge further  
 🌍 Based in **Québec, Canada**  
-⚡ Passionate about **creativity, design, and clean code**
+⚡ Believer in **clean code, continuous learning, and innovation**
 
 ---
 
@@ -28,16 +30,14 @@
 
 ### 🧰 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,java,python,kotlin,nodejs,express,react,nextjs,angular,tailwind,sass,bootstrap,mongodb,mysql,postgres,git,figma,ps,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nodejs,express,java,python,kotlin,react,nextjs,angular,tailwind,sass,bootstrap,mongodb,mysql,postgres,git,figma,ps,androidstudio,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brillonadam&show_icons=true&theme=tokyonight&hide_border=true" alt="Adam's GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brillonadam&theme=tokyonight&hide_border=true" alt="GitHub streak" height="160"/>
-</div>
+### ⚙️ Backend Focus
+I love building things that **run efficiently behind the scenes** —  
+APIs, databases, and server-side logic are my playground.
 
 ---
 
@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brillonadam&label=Profile+Views&color=blue&style=flat-square" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=brillonadam&label=Profile+Views&color=00C4FF&style=flat-square" alt="Profile views counter"/>
 </div>
