@@ -44,8 +44,9 @@
 
 ## 🌍 Languages
 - French  
-- English  
+- English
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brillonadam&label=Profile+Views&color=00C4FF&style=flat-square" alt="Profile views counter"/>
-</div>
+---
+
+### 📫 Get in Touch
+Feel free to reach out if you want to collaborate, discuss projects, or share ideas:  
