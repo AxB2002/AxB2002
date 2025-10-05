@@ -8,11 +8,11 @@
 ---
 
 ### 👨‍💻 About Me  
-🎓 **Recently graduated** as an *Analyste Programmeur*  
-💡 Passionate about **Backend Development**, APIs & scalable systems  
+🎓 **Software Development Analyst graduate**, passionate about building reliable and scalable systems  
+💡 Skilled in both **Backend and Frontend Development**, with a strong focus on **API architecture** and **database design**
 📸 Also a **Professional Photographer** — creativity drives my work  
 🎯 Soon heading to **University** to keep pushing my knowledge further  
-🌍 Based in **Québec, Canada**  
+🌍 Based in **Montreal, Quebec, Canada**
 ⚡ Believer in **clean code, continuous learning, and innovation**
 
 ---
@@ -35,16 +35,14 @@
 
 ---
 
-### ⚙️ Backend Focus
-I love building things that **run efficiently behind the scenes** —  
-APIs, databases, and server-side logic are my playground.
-
----
-
 ### 🎨 Fun Touch  
 > *“Code is like photography — it’s all about framing the right perspective.”*
 
 ---
+
+## 🌍 Languages
+- 🇫🇷 French  
+- 🇬🇧 English  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=brillonadam&label=Profile+Views&color=00C4FF&style=flat-square" alt="Profile views counter"/>
